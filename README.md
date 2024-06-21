@@ -58,4 +58,12 @@ e)
 
     Endpoint  : api/students/{id}/
     Method    : DELETE  -  Delete a Specific Student Details
+    
+swagger/ 
+![Swagger](https://github.com/abynxv/API-Documentation-Swagger-ReDoc/assets/154351820/38f6f4c4-a695-4fec-846d-68c182441f9f)
+ReDoc/
+![Redoc](https://github.com/abynxv/API-Documentation-Swagger-ReDoc/assets/154351820/ef8eb3a9-725c-473a-a68d-8e91efcb41da)
+
+
+
       

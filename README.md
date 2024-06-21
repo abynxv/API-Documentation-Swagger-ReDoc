@@ -33,4 +33,29 @@ Setup Instructions
   
       cd project_path
       python manage.py runserver
+
+  API Endpoints
+
+1.Student Management
+
+a)
+
+    Endpoint  : api/students/
+    Method    : GET     - List All Students
+b)
+
+    Endpoint  :  api/students/
+    Method    : POST     - Post a Student
+c)
+
+    Endpoint  : api/students/{id}/
+    Method    : GET     - Retrieve a Specific Student
+d)
+
+    Endpoint  : api/students/{id}/
+    Method    : PUT     -Update a Specific Student Details
+e)
+
+    Endpoint  : api/students/{id}/
+    Method    : DELETE  -  Delete a Specific Student Details
       
